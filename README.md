@@ -1,4 +1,4 @@
-# game_list-app
+# game-list-app
 
 Welcome to my game-list-app! This project does amazing things and you'll love it.
 
